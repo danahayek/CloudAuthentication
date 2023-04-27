@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961690185397",
+    "project_id": "cloud-authentication-898e8",
+    "storage_bucket": "cloud-authentication-898e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961690185397:android:50e6ed5cfbacb5d61ad8fc",
+        "android_client_info": {
+          "package_name": "com.example.cloudauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961690185397-pdv3b7ffbmj8p5nnefdvhqfmqq8o76gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVie3t5Kc9URG6e68eNa4czepHZ0zvE3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961690185397-pdv3b7ffbmj8p5nnefdvhqfmqq8o76gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
